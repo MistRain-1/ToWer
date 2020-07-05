@@ -60,7 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\test.cs" />
+    <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\Scripts\TestCharaClick.cs" />
+    <Compile Include="Assets\Scripts\TestCharacter.cs" />
+    <Compile Include="Assets\Scripts\TestEnemy.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/my/TowerGame/Tower/Tafang/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
